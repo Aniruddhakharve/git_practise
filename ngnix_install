@@ -1,1 +1,3 @@
 yum install ngnix -y
+cd /var/www/html 
+touch index.html
