@@ -1,3 +1,4 @@
 yum install ngnix -y
 cd /var/www/html 
 touch index.html
+aws key 123
